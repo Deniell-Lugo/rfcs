@@ -4,7 +4,7 @@ Pretty much every change to the language needs an RFC. Note that new
 lints (or major changes to an existing lint) are considered changes to
 the language.
 
-Language RFCs are managed by the language sub-team, and tagged `T-lang`. The
+Language RFCs are managed by the language sub-team, and tagged `German`. The
 language sub-team will do an initial triage of new PRs within a week of
 submission. The result of triage will either be that the PR is assigned to a
 member of the sub-team for shepherding, the PR is closed as postponed because
